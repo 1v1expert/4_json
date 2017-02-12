@@ -6,9 +6,9 @@ Pretty Print in console of json files
 
 ## Quickstart
 
-    The program to require the path to data file in JSon format.
+**The program to require the path to data file in JSon format.**
 
-Example of script launch on Linux, Python 3.5:
+##### Example of script launch on Linux, Python 3.5: 
 
 ```#!python
 > $ python3.5 pprint_json.py

@@ -1,20 +1,17 @@
-# Prettify JSON
+# Prettify-formalize JSON
+<hr>
 
-[TODO. There will be project description]
+</hr>
+Pretty Print in console of json files
 
-# Quickstart
+## Quickstart
 
-[TODO]
+    The program to require the path to data file in JSon format.
 
 Example of script launch on Linux, Python 3.5:
 
-```#!bash
-
-$ python pprint_json.py <path to file>
-# TODO add output example
+```#!python
+> $ python3.5 pprint_json.py
+> filepath = *.json
 
 ```
-
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
